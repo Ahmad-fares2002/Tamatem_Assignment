@@ -1,4 +1,3 @@
-# Tamatem_Assignment
 # Ludo Game Unity Project
 
 Welcome to the Ludo Game Unity project! This Unity scene combines various features, including a simple UI, animations, interactions, and the integration of Unity's Addressables system.
