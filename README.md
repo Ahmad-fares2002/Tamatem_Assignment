@@ -8,8 +8,7 @@ Welcome to the Ludo Game Unity project! This Unity scene combines various featur
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Built With](#built-with)
-- [Authors](#authors)
-- [License](#license)
+- [Author](#author)
 
 ## Features
 
