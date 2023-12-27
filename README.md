@@ -17,7 +17,7 @@ Welcome to the Ludo Game Unity project! This Unity scene combines various featur
    - Reset button to return the chip to its initial position.
 
 2. **Ludo Board Game Layout:**
-   - The layout includes a Ludo board with starting positions for game pieces.
+   - The layout includes a Ludo board with a starting position.
 
 3. **Die Roll Animation:**
    - Clicking the Roll button triggers a simple animation of the die rolling.
@@ -26,11 +26,9 @@ Welcome to the Ludo Game Unity project! This Unity scene combines various featur
 4. **Chip Movement:**
    - Tapping the chip moves it to the appropriate position based on the last die roll.
 
-5. **Unity's Addressables Integration:**
+5. **Unity's Addressable Integration:**
    - Utilizes Unity's Addressables system to load images of the die and chip.
-
-6. **Cross-Platform Compatibility:**
-   - Compatible with Android and iOS platforms.
+   - Addressable compatible with Android
 
 ## Getting Started
 
@@ -38,17 +36,6 @@ Welcome to the Ludo Game Unity project! This Unity scene combines various featur
    ```bash
    git clone https://github.com/your-username/ludo-game-unity.git
 
-<ol>
-   <li>Open in Unity:</li>
-Open Unity Hub.
-Click "Add" to add the cloned repository as a project.
-Open the project in Unity.
-<li>Configure Build Settings:</li>
-
-Set up the project for Android or iOS in Unity's Build Settings.
-<li>Run the Game:</li>
-
-Build and run the game on your preferred platform.
 ## Usage
 <ol>
    <li>Roll Button:</li>
