@@ -39,31 +39,36 @@ Welcome to the Ludo Game Unity project! This Unity scene combines various featur
    ```bash
    git clone https://github.com/your-username/ludo-game-unity.git
 
-Open in Unity:
-
+<ol>
+   <li>Open in Unity:</li>
 Open Unity Hub.
 Click "Add" to add the cloned repository as a project.
 Open the project in Unity.
-Configure Build Settings:
+<li>Configure Build Settings:</li>
 
 Set up the project for Android or iOS in Unity's Build Settings.
-Run the Game:
+<li>Run the Game:</li>
 
 Build and run the game on your preferred platform.
-Usage
-Roll Button:
+## Usage
+<ol>
+   <li>Roll Button:</li>
 
 Click the "Roll" button to simulate a die roll.
-Reset Button:
+<li>Reset Button:</li>
 
 Click the "Reset" button to return the chip to its initial position.
-Chip Movement:
+<li>Chip Movement:</li>
 
 Tap on the chip to move it to the appropriate position based on the last die roll.
-Built With
-Unity 3D
-Unity's Addressables System
-C# Programming Language
+</ol>
 
-Author
+## Built With
+<ul>
+<li>Unity 3D
+<li>Unity's Addressable System
+<li>C# Programming Language
+</ul>
+
+## Author
 Ahmad Fares
