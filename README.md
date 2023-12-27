@@ -8,6 +8,7 @@ Welcome to the Ludo Game Unity project! This Unity scene combines various featur
 - [Usage](#usage)
 - [Built With](#built-with)
 - [Author](#author)
+-  [Preview](#Preview)
 
 ## Features
 
@@ -54,6 +55,11 @@ Tap on the chip to move it to the appropriate position based on the last die rol
 <li>Unity's Addressable System
 <li>C# Programming Language
 </ul>
+
+## Preview
+
+https://github.com/Ahmad-fares2002/Tamatem_Assignment/assets/83381259/2d580090-3f00-48a4-9fb3-8abd00d2503f
+
 
 ## Author
 Ahmad Fares
